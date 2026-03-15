@@ -209,3 +209,7 @@ WHERE Offender_Race NOT LIKE '%A%';
 -- 29. Replace a row
 REPLACE INTO crime_data (Category, Offender_Age)
 VALUES ('Theft', 30);
+
+-- 30. Display all unique crime categories
+SELECT DISTINCT Category
+FROM crime_data;
