@@ -32,4 +32,4 @@ and report types.
 
 ## Author
 Tara Johnson  
-B.Tech – Artificial Intelligence and Data Science (Pre-Final Year)
+B.Tech – Artificial Intelligence and Data Science (Final Year)
